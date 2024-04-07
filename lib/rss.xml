@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CosMatch]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>CosMatch</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 07 Apr 2024 19:50:01 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 07 Apr 2024 19:50:01 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Главная страница]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CosMatch]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>CosMatch</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 07 Apr 2024 19:55:19 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 07 Apr 2024 19:55:18 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Главная страница]]></title><description><![CDATA[ 
  <br>Рассматриваются разные варианты каталогов и их сочетаний.<br>
 На данный момент в качестве основного рентгеновского используется 4XMM.<br>
 Далее представлены все используемые каталоги с их возможными признаками:<br>4XMM<br>
@@ -6,15 +6,14 @@ sc_hr1, sc_hr2, sc_hr3, sc_hr4<br>
 mag_1, mag_2, mag_3, mag_4, mag_5, mag_8, mag_9<br>GAIA<br>
 g_mag, bp_mag, rp_mag<br>
 parallax / parallax_err,<br>
-pmra/pmra_err, pmdec/pmdec_err]]></description><link>cosmatch-search\tsne\признаковое-пространство\главная-страница.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Признаковое пространство/Главная страница.md</guid><pubDate>Sun, 07 Apr 2024 17:01:21 GMT</pubDate></item><item><title><![CDATA[Главная страница]]></title><description><![CDATA[ 
+pmra/pmra_err, pmdec/pmdec_err]]></description><link>CosMatch Search\TSNE\Признаковое пространство\Главная страница.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Признаковое пространство/Главная страница.md</guid><pubDate>Sun, 07 Apr 2024 17:01:21 GMT</pubDate></item><item><title><![CDATA[Главная страница]]></title><description><![CDATA[ 
  <br>Тут будет располагаться описание метода сжатия пространства с помощью TSNE<br>На данный момент существует два важных элемента:<br>
 1) Подбор параметра perplexity<br>
-2) Подбор признакового пространства]]></description><link>cosmatch-search\tsne\главная-страница.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Главная страница.md</guid><pubDate>Sun, 07 Apr 2024 16:42:17 GMT</pubDate></item><item><title><![CDATA[CosMatch - поиск объектов]]></title><description><![CDATA[ 
+2) Подбор признакового пространства]]></description><link>CosMatch Search\TSNE\Главная страница.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Главная страница.md</guid><pubDate>Sun, 07 Apr 2024 16:42:17 GMT</pubDate></item><item><title><![CDATA[CosMatch - поиск объектов]]></title><description><![CDATA[ 
  <br>
-<br><a data-tooltip-position="top" aria-label="CosMatch Search/TSNE/Главная страница" data-href="CosMatch Search/TSNE/Главная страница" href="cosmatch-search\tsne\главная-страница.html" class="internal-link" target="_self" rel="noopener">TSNE</a>
+<br><a data-tooltip-position="top" aria-label="CosMatch Search/TSNE/Главная страница" data-href="CosMatch Search/TSNE/Главная страница" href="CosMatch Search\TSNE\Главная страница.html" class="internal-link" target="_self" rel="noopener">TSNE</a>
 <br>AutoEncoder
-]]></description><link>cosmatch-search\cosmatch-поиск-объектов.html</link><guid isPermaLink="false">CosMatch Search/CosMatch - поиск объектов.md</guid><pubDate>Sun, 07 Apr 2024 17:52:04 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+]]></description><link>CosMatch Search\CosMatch - поиск объектов.html</link><guid isPermaLink="false">CosMatch Search/CosMatch - поиск объектов.md</guid><pubDate>Sun, 07 Apr 2024 19:55:08 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>Текущие проекты:<br>
 1) CosMatch - отождествление<br>
-2) <a data-href="CosMatch - поиск объектов" href="cosmatch-search\cosmatch-поиск-объектов.html" class="internal-link" target="_self" rel="noopener">CosMatch - поиск объектов</a><br>
-3)]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 07 Apr 2024 19:06:54 GMT</pubDate></item></channel></rss>
+2) <a data-href="CosMatch - поиск объектов" href="CosMatch Search\CosMatch - поиск объектов.html" class="internal-link" target="_self" rel="noopener">CosMatch - поиск объектов</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 07 Apr 2024 19:52:37 GMT</pubDate></item></channel></rss>
