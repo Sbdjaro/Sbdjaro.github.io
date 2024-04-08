@@ -1,14 +1,37 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CosMatch]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>CosMatch</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 07 Apr 2024 21:28:36 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 07 Apr 2024 21:28:36 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[4XMM + UKIDSSdr11]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CosMatch]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>CosMatch</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 08 Apr 2024 07:47:43 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 08 Apr 2024 07:47:43 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[4XMM + UKIDSSdr11]]></title><description><![CDATA[ 
  <br>Признаки:<br>
 4XMM:<br>
 sc_hr1, sc_hr2, sc_hr3, sc_hr4<br>
 mag_1, mag_2, mag_3, mag_4, mag_5, mag_8, mag_9<br>
-<br>
 UKIDSS:<br>
 j_mag, h_mag, k_mag<br>Размер данных:<br>
-6325 объектов<br>Ссылка на данные более подробно:<br>
-<a rel="noopener" class="external-link" href="https://disk.yandex.ru/d/VQ7dR_WnQyocKQ" target="_blank">https://disk.yandex.ru/d/VQ7dR_WnQyocKQ</a><br>Некоторые результаты TSNE:<br>
-<img src="https://i.imgur.com/OnWsiok.png" referrerpolicy="no-referrer">]]></description><link>CosMatch Search\TSNE\Каталоги\Эксперименты\4XMM + UKIDSSdr11.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Каталоги/Эксперименты/4XMM + UKIDSSdr11.md</guid><pubDate>Sun, 07 Apr 2024 21:25:19 GMT</pubDate><enclosure url="https://i.imgur.com/OnWsiok.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/OnWsiok.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Эксперименты с каталогами]]></title><description><![CDATA[ 
+6325 объектов<br>
+18 HMXB<br>Ссылка на данные более подробно:<br>
+<a rel="noopener" class="external-link" href="https://disk.yandex.ru/d/VQ7dR_WnQyocKQ" target="_blank">https://disk.yandex.ru/d/VQ7dR_WnQyocKQ</a><br>Основные результаты:<br>
+Картины TSNE с разными perplexity:<br>
+<img src="https://i.imgur.com/OnWsiok.png" referrerpolicy="no-referrer"><br>Старые классы HMXB:<br>
+<img src="https://i.imgur.com/nBKM9aN.png" referrerpolicy="no-referrer">]]></description><link>CosMatch Search\TSNE\Каталоги\Эксперименты\4XMM + UKIDSSdr11.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Каталоги/Эксперименты/4XMM + UKIDSSdr11.md</guid><pubDate>Mon, 08 Apr 2024 07:47:02 GMT</pubDate><enclosure url="https://i.imgur.com/OnWsiok.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/OnWsiok.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4XMM + UKIDSSdr11 + CatWISE]]></title><description><![CDATA[ 
+ <br>Признаки:<br>
+4XMM:<br>
+sc_hr1, sc_hr2, sc_hr3, sc_hr4<br>
+mag_1, mag_2, mag_3, mag_4, mag_5, mag_8, mag_9<br>
+UKIDSS:<br>
+j_mag, h_mag, k_mag<br>
+CatWISE:<br>
+w1_mag, w2_mag, w1-w2<br>Разные поднаборы:<br>
+<br>Когда представлены все объекты (пары из трех) - N1:
+<br>Когда catwise может быть NaN - N2:
+<br>Размер данных:<br>
+N1<br>
+3651  объект<br>
+13 HMXB<br>
+N2<br>
+6325 объектов<br>
+18 HMXB<br>Ссылка на данные:<br>
+<a rel="noopener" class="external-link" href="https://disk.yandex.ru/d/o4gE61sn7NCfbQ" target="_blank">https://disk.yandex.ru/d/o4gE61sn7NCfbQ</a><br>Основные результаты:<br>
+Картины TSNE с разными perplexity:<br>
+<img src="https://i.imgur.com/7fYVlgm.png" referrerpolicy="no-referrer"><br>Классы HMXB:<br>
+<img src="https://i.imgur.com/RmTfNEN.png" referrerpolicy="no-referrer">]]></description><link>CosMatch Search\TSNE\Каталоги\Эксперименты\4XMM + UKIDSSdr11 + CatWISE.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Каталоги/Эксперименты/4XMM + UKIDSSdr11 + CatWISE.md</guid><pubDate>Mon, 08 Apr 2024 07:46:09 GMT</pubDate><enclosure url="https://i.imgur.com/7fYVlgm.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/7fYVlgm.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Эксперименты с каталогами]]></title><description><![CDATA[ 
  <br>Проведенные эксперименты:<br>
 <br><a data-href="4XMM + UKIDSSdr11" href="CosMatch Search\TSNE\Каталоги\Эксперименты\4XMM + UKIDSSdr11.html" class="internal-link" target="_self" rel="noopener">4XMM + UKIDSSdr11</a>
 <br>
@@ -21,8 +44,7 @@ mag_1, mag_2, mag_3, mag_4, mag_5, mag_8, mag_9<br>GAIA<br>
 g_mag, bp_mag, rp_mag<br>
 parallax / parallax_err,<br>
 pmra/pmra_err, pmdec/pmdec_err<br>Pan-STARRS<br>
-...]]></description><link>CosMatch Search\TSNE\Каталоги\Каталоги - Главная страница.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Каталоги/Каталоги - Главная страница.md</guid><pubDate>Sun, 07 Apr 2024 21:28:09 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
- ]]></description><link>CosMatch Search\TSNE\Каталоги\Untitled.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Каталоги/Untitled.md</guid><pubDate>Sun, 07 Apr 2024 20:02:30 GMT</pubDate></item><item><title><![CDATA[TSNE - Главная страница]]></title><description><![CDATA[ 
+...]]></description><link>CosMatch Search\TSNE\Каталоги\Каталоги - Главная страница.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Каталоги/Каталоги - Главная страница.md</guid><pubDate>Sun, 07 Apr 2024 21:28:09 GMT</pubDate></item><item><title><![CDATA[TSNE - Главная страница]]></title><description><![CDATA[ 
  <br>Тут будет располагаться описание метода сжатия пространства с помощью TSNE<br>На данный момент существует два важных элемента:<br>
 1) Подбор параметра perplexity<br>
 2) <a data-tooltip-position="top" aria-label="Каталоги - Главная страница" data-href="Каталоги - Главная страница" href="CosMatch Search\TSNE\Каталоги\Каталоги - Главная страница.html" class="internal-link" target="_self" rel="noopener">Подбор признакового множества</a>]]></description><link>CosMatch Search\TSNE\TSNE - Главная страница.html</link><guid isPermaLink="false">CosMatch Search/TSNE/TSNE - Главная страница.md</guid><pubDate>Sun, 07 Apr 2024 20:01:33 GMT</pubDate></item><item><title><![CDATA[CosMatch - поиск объектов]]></title><description><![CDATA[ 
