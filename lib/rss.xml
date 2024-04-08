@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CosMatch]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>CosMatch</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 08 Apr 2024 10:14:38 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 08 Apr 2024 10:14:37 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[CosMatch - отождествление]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CosMatch]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>CosMatch</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 08 Apr 2024 11:07:26 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 08 Apr 2024 11:07:24 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[CosMatch - отождествление]]></title><description><![CDATA[ 
  <br>Главная страница описания модуля отождествления]]></description><link>CosMatch Match\CosMatch - отождествление.html</link><guid isPermaLink="false">CosMatch Match/CosMatch - отождествление.md</guid><pubDate>Mon, 08 Apr 2024 09:44:29 GMT</pubDate></item><item><title><![CDATA[4XMM - NEWTON]]></title><description><![CDATA[ 
  ]]></description><link>CosMatch Search\Каталоги\4XMM - NEWTON.html</link><guid isPermaLink="false">CosMatch Search/Каталоги/4XMM - NEWTON.md</guid><pubDate>Mon, 08 Apr 2024 09:25:09 GMT</pubDate></item><item><title><![CDATA[Каталоги]]></title><description><![CDATA[ 
  <br>
@@ -13,7 +13,55 @@
  ]]></description><link>CosMatch Search\Каталоги\GAIA DR3.html</link><guid isPermaLink="false">CosMatch Search/Каталоги/GAIA DR3.md</guid><pubDate>Mon, 08 Apr 2024 09:25:39 GMT</pubDate></item><item><title><![CDATA[IPHAS + VPHAS]]></title><description><![CDATA[ 
  ]]></description><link>CosMatch Search\Каталоги\IPHAS + VPHAS.html</link><guid isPermaLink="false">CosMatch Search/Каталоги/IPHAS + VPHAS.md</guid><pubDate>Mon, 08 Apr 2024 09:55:44 GMT</pubDate></item><item><title><![CDATA[PanSTARRS DR2]]></title><description><![CDATA[ 
  ]]></description><link>CosMatch Search\Каталоги\PanSTARRS DR2.html</link><guid isPermaLink="false">CosMatch Search/Каталоги/PanSTARRS DR2.md</guid><pubDate>Mon, 08 Apr 2024 09:28:40 GMT</pubDate></item><item><title><![CDATA[UKIDSS]]></title><description><![CDATA[ 
- ]]></description><link>CosMatch Search\Каталоги\UKIDSS.html</link><guid isPermaLink="false">CosMatch Search/Каталоги/UKIDSS.md</guid><pubDate>Mon, 08 Apr 2024 09:30:42 GMT</pubDate></item><item><title><![CDATA[4XMM + UKIDSSdr11]]></title><description><![CDATA[ 
+ ]]></description><link>CosMatch Search\Каталоги\UKIDSS.html</link><guid isPermaLink="false">CosMatch Search/Каталоги/UKIDSS.md</guid><pubDate>Mon, 08 Apr 2024 09:30:42 GMT</pubDate></item><item><title><![CDATA[Главная страница UKIDSS + 4XMM + CatWISE + PS]]></title><description><![CDATA[ 
+ <br>Возможные признаки:<br>
+<br>4XMM:
+
+<br>sc_hr1, sc_hr2, sc_hr3, sc_hr4
+<br>mag_1, mag_2, mag_3, mag_4, mag_5, mag_8, mag_9
+
+
+<br>UKIDSS:
+
+<br>j_mag, h_mag, k_mag
+
+
+<br>CatWISE:
+
+<br>w1_mag, w2_mag, w1-w2
+
+
+<br>PS:
+
+<br>r_PSF_mag, i_PSF_mag, z_PSF_mag, y_PSF_mag, g_PSF_mag
+<br>r_Kron_mag, i_Kron_mag, z_Kron_mag, y_Kron_mag, g_Kron_mag
+
+
+<br>Изученные наборы:<br>
+<br><a data-tooltip-position="top" aria-label="UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(все признаки)" data-href="UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(все признаки)" href="CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM + CatWISE + PS\UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(все признаки).html" class="internal-link" target="_self" rel="noopener">N1 = UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(все признаки)</a>
+<br>N1 = UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(только PSF)
+<br>N2 = UKIDSS(f) + 4XMM(+) + CatWISE(-) + PS(+)
+<br>N2 = UKIDSS(f) + 4XMM(+) + CatWISE(-) + PS(-)
+<br>Лучшие результаты (Визуально)<br>]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM + CatWISE + PS\Главная страница UKIDSS + 4XMM + CatWISE + PS.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/UKIDSS + 4XMM + CatWISE + PS/Главная страница UKIDSS + 4XMM + CatWISE + PS.md</guid><pubDate>Mon, 08 Apr 2024 11:00:38 GMT</pubDate><enclosure url="https://i.imgur.com/UOpxADs.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/UOpxADs.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(все признаки)]]></title><description><![CDATA[ 
+ <br>Размер данных<br>
+<br>3345 объекта
+<br>11 HMXB
+<br>Ссылка на данные<br>
+<br><a rel="noopener" class="external-link" href="https://disk.yandex.ru/d/gTLL36o5uNNEXg" target="_blank">https://disk.yandex.ru/d/gTLL36o5uNNEXg</a>
+<br>]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM + CatWISE + PS\UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(все признаки).html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/UKIDSS + 4XMM + CatWISE + PS/UKIDSS(f) + 4XMM(+) + CatWISE(+) + PS(+)(все признаки).md</guid><pubDate>Mon, 08 Apr 2024 10:50:18 GMT</pubDate><enclosure url="https://i.imgur.com/CPiXmnB.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/CPiXmnB.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Эксперименты с каталогами]]></title><description><![CDATA[ 
+ <br>Проведенные эксперименты:<br>
+<br><a data-href="UKIDSS + 4XMM" href="CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM.html" class="internal-link" target="_self" rel="noopener">UKIDSS + 4XMM</a>
+<br><a data-href="UKIDSS + 4XMM + CatWISE" href="CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM + CatWISE.html" class="internal-link" target="_self" rel="noopener">UKIDSS + 4XMM + CatWISE</a>
+<br><a data-tooltip-position="top" aria-label="Главная страница UKIDSS + 4XMM + CatWISE + PS" data-href="Главная страница UKIDSS + 4XMM + CatWISE + PS" href="CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM + CatWISE + PS\Главная страница UKIDSS + 4XMM + CatWISE + PS.html" class="internal-link" target="_self" rel="noopener">UKIDSS + 4XMM + CatWISE + PS</a>
+<br>Заметки:<br>
+<br>В некоторых случаях каталоги можно добавлять разными способами - можно оставлять строки только с найденными компаньонами, или оставлять пропуски, заполняя признаки соответствующего каталога NaN. 
+
+<br>(-) в названии = значит у объектов может быть не найден компаньон из этого каталога. Не уменьшает количество объектов.
+<br>(+) в названии = для всех объектов должны быть найдены компаньоны их этого каталога. Сильно уменьшает количество объектов.
+<br>(f) в названии = фреймовый каталог - к нему цепляются другие каталоги.
+
+
+]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\Эксперименты с каталогами.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/Эксперименты с каталогами.md</guid><pubDate>Mon, 08 Apr 2024 10:44:17 GMT</pubDate></item><item><title><![CDATA[UKIDSS + 4XMM]]></title><description><![CDATA[ 
  <br>Признаки:<br>
 <br>4XMM:
 
@@ -36,7 +84,7 @@
 <br><img src="https://i.imgur.com/OnWsiok.png" referrerpolicy="no-referrer">
 <br>Старые классы HMXB:<br>
 <br><img src="https://i.imgur.com/nBKM9aN.png" referrerpolicy="no-referrer">
-]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\4XMM + UKIDSSdr11.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/4XMM + UKIDSSdr11.md</guid><pubDate>Mon, 08 Apr 2024 07:51:58 GMT</pubDate><enclosure url="https://i.imgur.com/OnWsiok.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/OnWsiok.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4XMM + UKIDSSdr11 + CatWISE]]></title><description><![CDATA[ 
+]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/UKIDSS + 4XMM.md</guid><pubDate>Mon, 08 Apr 2024 07:51:58 GMT</pubDate><enclosure url="https://i.imgur.com/OnWsiok.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/OnWsiok.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[UKIDSS + 4XMM + CatWISE]]></title><description><![CDATA[ 
  <br>Признаки:<br>
 <br>4XMM:
 
@@ -73,12 +121,7 @@
 <br>Ссылка на данные:<br>
 <br>N1 <a rel="noopener" class="external-link" href="https://disk.yandex.ru/d/o4gE61sn7NCfbQ" target="_blank">https://disk.yandex.ru/d/o4gE61sn7NCfbQ</a>
 <br>N2 <a rel="noopener" class="external-link" href="https://disk.yandex.ru/d/0EfRb9ICnX4JTg" target="_blank">https://disk.yandex.ru/d/0EfRb9ICnX4JTg</a>
-<br>Основные результаты N1 :<br><br>Основные результаты N2 :<br>]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\4XMM + UKIDSSdr11 + CatWISE.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/4XMM + UKIDSSdr11 + CatWISE.md</guid><pubDate>Mon, 08 Apr 2024 10:13:54 GMT</pubDate><enclosure url="https://i.imgur.com/7fYVlgm.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/7fYVlgm.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Эксперименты с каталогами]]></title><description><![CDATA[ 
- <br>Проведенные эксперименты:<br>
-<br><a data-href="4XMM + UKIDSSdr11" href="CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\4XMM + UKIDSSdr11.html" class="internal-link" target="_self" rel="noopener">4XMM + UKIDSSdr11</a>
-<br><a data-href="4XMM + UKIDSSdr11 + CatWISE" href="CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\4XMM + UKIDSSdr11 + CatWISE.html" class="internal-link" target="_self" rel="noopener">4XMM + UKIDSSdr11 + CatWISE</a>
-<br>
-]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\Эксперименты с каталогами.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/Эксперименты с каталогами.md</guid><pubDate>Mon, 08 Apr 2024 07:52:40 GMT</pubDate></item><item><title><![CDATA[Наборы данных]]></title><description><![CDATA[ 
+<br>Основные результаты N1 :<br><br>Основные результаты N2 :<br>]]></description><link>CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\UKIDSS + 4XMM + CatWISE.html</link><guid isPermaLink="false">CosMatch Search/TSNE/Варианты наборов данных/Эксперименты/UKIDSS + 4XMM + CatWISE.md</guid><pubDate>Mon, 08 Apr 2024 10:49:13 GMT</pubDate><enclosure url="https://i.imgur.com/7fYVlgm.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.imgur.com/7fYVlgm.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Наборы данных]]></title><description><![CDATA[ 
  <br>Рассматриваются разные варианты каталогов и их сочетаний.<br>
 На данный момент в качестве основного рентгеновского используется 4XMM.<br>
 Эксперименты представлены <a data-tooltip-position="top" aria-label="Эксперименты с каталогами" data-href="Эксперименты с каталогами" href="CosMatch Search\TSNE\Варианты наборов данных\Эксперименты\Эксперименты с каталогами.html" class="internal-link" target="_self" rel="noopener">тут</a><br>Далее представлены все используемые каталоги с их возможными признаками:<br><a data-tooltip-position="top" aria-label="4XMM - NEWTON" data-href="4XMM - NEWTON" href="CosMatch Search\Каталоги\4XMM - NEWTON.html" class="internal-link" target="_self" rel="noopener">4XMM</a><br>
